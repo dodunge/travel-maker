@@ -3,24 +3,27 @@
 
 
 <h2>1. 기획 배경</h2>
-<img src="![travelmaker기획배경](https://github.com/user-attachments/assets/6bf57691-28dd-4bac-953f-116c41c1f24a)"/>
-해가 갈수록 학령인구 감소가 되고 있다. <strong>지방대는 감축 정원이 88%</strong>이다.
-대학간 경쟁률 격차도 심해져간다. <strong>수도권 비수도권 대학 간 경쟁률 격차는 수도권이 13.95 대 1 이며 비수도권은 경쟁률이 6.04 대 1</strong>이다
+<img src="https://github.com/dodunge/travel-maker/blob/master/images/travelmaker%EA%B8%B0%ED%9A%8D%EB%B0%B0%EA%B2%BD.png"  style = "width: 80%; height : 480"/>
+국내 관광지에 대한 부정적인 시선이 늘어나고 있다. 문제는 <strong>컨텐츠 부족 & 바가지 요금</strong>이다. <br>
+이유는 지방의 다양한 관광지에 대한 정보가 부족하고, 피드백을 주고받기 매우 어렵다는 것이다. <br>
+따라서 지방 관광지를 활성화 시키고 개선사항 및 여행 스토리를 나누므로써 <strong>지역 경제 활성화 & 여행지의 인식개선</strong>을 도모할 수 있는 플랙폼이 필요하다.
 
 </div>
 
 <br>
 <br>
-<h2>2. 기대 효과</h2>
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaVJgTO2sjSnTZYawWbxkJa6UkbrZY_gqjw5ui9lFQp4acAz_3-sO26Mc3h7CQIH2cAL88lQfhumh19aLIpsXTJTUAuldQ5noCgwQj0OmHMB4X4ets6oC3Fd1IqMZqkqZlB1fbuCme8P_1a0mP1yuiU=w1057-h574-s-no?authuser=0" style = "width: 80%; height : 480">
-<h4>다양한 전공 관련 자료 접근성 증진에 기인한 대학 수준 상향 평준화</h4>
-<h4>대학생 커뮤니티 관련 플랫폼 구축</h2>
-<h4>커뮤니케이션 스킬 및 협업 능력 향상</h2>
-<h4>입시 관련 상담 및 정보 제공으로 인한 입시 스트레스 완화</h4>
+<h2>2. 해결 방안 및 서비스 소개</h2>
+<img src="https://github.com/dodunge/travel-maker/blob/master/images/travelmaker%ED%95%B4%EA%B2%B0%EB%B0%A9%EC%95%88.png" style = "width: 80%; height : 480">
+<img src="https://github.com/dodunge/travel-maker/blob/master/images/travelmaker%EC%84%9C%EB%B9%84%EC%8A%A4%EC%86%8C%EA%B0%9C.png" style = "width: 80%; height : 480">
+<h4>테마별 색다른 관광루트 및 명소 제공 기능</h4>
+<h4>손쉬운 개선사항 요청이 가능한 커뮤니티 기능</h2>
+<h4>즉각적인 피드백을 주고 받을 수 있는 스토리 기능</h2>
+<h4>관광지 환경보존에 대한 선순환 구조를 유도하는 에코인증 기능</h4>
+
 
 <br>
 <h2>3. 프로젝트 사용 툴</h2>
-<img src="https://lh3.googleusercontent.com/gvAR47YCUug9fUljP_rLkUoQhzWU1RBOeL-euKEQQFVJJON_paWDtAeE5mfysvTy4Nq25ccZoWylvjKty_ZeGpgXkDjc8WQhMvAm3V5-6nrEUt1ZjR-_H5rr-OSMDRplI1xKzAhCiv6W-LPpZOK1UR8QOQ1sOMonfcAA3TiJru3ktUmZCG44t8JvNo7CpTknqWh7dRoAaGWQR4Al8NpKzhjs2-2ri7wiJ6J1PW22MKUkkyxxwIjSpoMFBAN1VXhHfRKJM7OWn4AcHRi2msuqvREWaRcVnPlsW6JEbDJn3oicanZPc_Lqljx6uKG9XEELVCLipvFY7b4GeB0Cm-dQLNu3vAcbgk3XUhhfKuvLpk0haNsTsVSOnp9_DpLsCC9X4sK7ih5X2EHRIPhd5AVNb3WOJybAWIcD6AK7bAnSJfUcZgvyPC8P1yNaEnolCETD1se-qp8PXe7YuQlzOxiEW1WwBHLklyTVIC-3oAXwzCw5wCkATwECSPtA5s5cL9tXA_4uXmc8lG9uj4WX0YuDU72Stqc3TQxwMhdUw0GoRn3kTIhA8T-pBtR0uSuGCHBUIye_ffqbfGw4zgOlUqJYvJRqdo0oZpEx10Pdf48fLkG9Ma6y4xBWJUynj5YoUXS5ORsVgqa_UFF7XU9jIFqJIuJQVi2bnYNr3_4oBwATk8zswkcmEYH8cTv-iuJ9zaXGgevL3USO-DEoyzRkuDg_sMJ7JODBWpTRYw5j07PGuMgBns_iNUAl_YXEXSzu0PiNciU9OEmQBcBl3LA_a0bysH6WSP-oGfoEPDGoUg3jiiI6i8_lxMvzockRY2_n6xo7LuXmTnqYLcd0nixqWKtbbE5IpCxHevnsLBkbXCw5ipAuxNfBEugGmTE-A7ythDwzKGCVq6Ru5Ti2217D9VrporcepF_gwcCiRY2kMeR2NN4vGCELrDKib13FxnMsWDEL_vDUOWL0h-Fx4Q-QsawMF54SBuQbSgzQ0RICNCCWl0gjxojLI3QLg7nhJxqjhMo6gl7v6ooF9NLQ6wZGA8wEelMktwg=w611-h346-no?authuser=0"style = "width: 80%; height : 480">
+<img src="https://github.com/dodunge/travel-maker/blob/master/images/travelmaker%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD.png"style = "width: 80%; height : 480">
         - Java<br>
         - Java Script<br>
         - tomcat<br>
@@ -30,11 +33,9 @@
         - JPA QueryDSL<br>
         - Spring Boot<br>
         - Oracle<br>
-        - Visual Studio Code<br>
+        - IntelliJ<br>
         - DBeaver<br>
-        - Sourcetree<br>
         - git, github<br>
-        - JSON<br>
         - Ajax<br>
         - JDK 11.0.15<br>
         - Naver DEVELOPER API<br>
@@ -45,62 +46,74 @@
 
 <br>
 <h2>4. ERD</h2>
-<img src="https://lh3.googleusercontent.com/9IvCTei0aSLynpjg9pJqtJ74MJxIZ2MwUuHYtgS-LW4jmAdjNJ03MH9aVZ-S_l1IHaLb08wLyFPJyrqHzuG3RYkyVJsVKvQSwHQN-yy77OLB3Nf10TVl3QFEXPB_ZsB1UGnx1bzrVbnlvLlvis8iLdEGGwfsAeqLUsCsq7HONtKWJBE2-92AuBuct4bMmxKjMS14tojbOb63jJBQY87m9RHZytzjHWhCEt3QEljMZ1KSQ-4HgJRKo4BkG2EeVvpET8u-skL43rTBHCqiFHM3kj_PrAMlxcs0qUDK41RdB7Kz2IEnAlEZKjMptxsEAhZ8Tk69oXdjVtjJky68R8T3VGgPeDuLD3zVE08ZRjyzPtLBiudjR_qh_cYhOvKi79UDJYGS8LkJDkPlMwpCO6pTc27h_1aQ5kCzJTaF4gF2x6UVmQogxAMWTCAg2rCGPg5Ua64OFKW6yAATd7crLaYJH5lLX8PQSe7fHKumAKjDjMz3srl9-ULwr_YQ-sBbMpIt9JvGlgszaNJy0AhMRn67p7GMiZk03ZQ7wPzudMSxToBE3Ujy-TH6JLYFc2tbyR9K3GHfvmA-kdyY3QxIuQZgXC3owabl0EKiaRqjFcvKqVu6NTdj9abPBD4tkJJJo55wMLEbtKejdgQObUKO2OpJdAEI8tnkvluTYU-Heq4FSpemXJ28oaHXKCRXm_AS4KnyenFt0E7FrnfOeKm_N4etZudItlaGaTrmyhHN5nCVKk2boMrGrjPL20FOe-5RmTiM422JIo6iPPk4j6IWC00vbQEnmwYTYvTzwtG2kRfvfCp-6yE_AHWewp6GROXvldRKdKTW05l4BIIgHcq_uChoEuxqNdULnJuu9MLk2WYFNOT4S05NKI5r98NyQ24NzILGh464ml0XQ-yiIdQ2KJ9vHRbSNzVcYfh3CHcKjiw7SsHADSyKN9UO84CPGKGKX13JcBvctzTTUfeF9mu-45tpr9IklFy-6IWLZbkgCEe88APpcpr1Ji-Z_q8h127hTzT-QgPp4rFPbdvLII6UEtRoD8Dc_Kc=w838-h920-s-no?authuser=0">
+<img src="https://github.com/dodunge/travel-maker/blob/master/images/erd.png">
 
 <h2>5. 담당 업무</h2>
-5-1 퍼블리싱<br>
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaUWOeK6hHWAPLkiIwvD_gfWYgr7G0ADXyOtw3hcy9-E8TXgHh6_RKOHXxjS9LtaR4-jvG8y2zZH_Sc1Qm4TjfPBIIdHc86nqwi3cMHdgHcM2oa0BTuVDp6hY4ONY1__dKIwtvhSwSxoNumD1eMnpTjs=w1212-h501-s-no?authuser=0" style = "width: 90%;">
+5-1 퍼블리싱 & 프론트엔드<br>
+▶ 스토리 / 고객센터 / 로그인 / 회원가입
 
-▶ 관리자 페이지 / 테마 / shop
-
-- 마이페이지 메인
-- 프로필 설정
-- 포인트 안내
-- 내 구매 목록
-- 간편 결제
-- 카드 등록
-- 내 참여
-- 찜 목록
-- 내 문의 목록
-- 내 문의 상세
-- 비밀번호 확인
-- 비밀번호 재설정
-- 기본 정보 설정
-- 알림 설정
-- 알림 동의 여부
-- 탈퇴 안내 및 본인확인
+- 스토리 목록 / 등록 / 수정 / 상세
+- 고객센터 메인
+- 업체회원 자주 묻는 질문 목록 / 상세
+- 일반회원 자주 묻는 질문 목록 / 상세
+- 문의·신고 등록
+- 공지 목록 / 상세
+- 로그인 (계정 선택)
+- 비밀번호 입력
+- 비밀번호 재설정 / 재설정 완료
+- 회원가입
+- 계정 찾기 / 찾기 성공 / 찾기 실패
+- 업체 목록 / 등록 / 수정 / 상세
 
 
 <br>
 5-2 백엔드<br>
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaUTWHVFl3ue12eBNh1B9PeRu0VEBcKtYOPRxR97aajINV2i3nR0oPVbUGT1yN-njM9tdBr_4hb6IM_VY1-2upwZjHb5ODVkHc22C2BSwOXkPwkRG6dq1ZSpYaea6Lg5ZKk5UbPg3iIp9LQWz3rcxHrg=w1795-h560-s-no?authuser=0" style = "width: 90%;">
+▶ 마이페이지 : 전체    - postman<br>
+        - gradle<br>
+
+<br>
+<h2>4. ERD</h2>
+<img src="https://github.com/dodunge/travel-maker/blob/master/images/erd.png">
+
+<h2>5. 담당 업무</h2>
+5-1 퍼블리싱 & 프론트엔드<br>
+▶ 스토리 / 고객센터 / 로그인 / 회원가입
+
+- 스토리 목록 / 등록 / 수정 / 상세
+- 고객센터 메인
+- 업체회원 자주 묻는 질문 목록 / 상세
+- 일반회원 자주 묻는 질문 목록 / 상세
+- 문의·신고 등록
+- 공지 목록 / 상세
+- 로그인 (계정 선택)
+- 비밀번호 입력
+- 비밀번호 재설정 / 재설정 완료
+- 회원가입
+- 계정 찾기 / 찾기 성공 / 찾기 실패
 
 
-▶ 회원가입
+<br>
+5-2 백엔드<br>
+▶ 마이페이지 : 전체
 - 아이디, 이메일 중복 검사 및 핸드폰 인증 API를 사용
 - 필수 정보 입력 여부 검사
 - 조건 충족 시 회원가입
 - 카카오 API를 이용한 간편 회원가입
 - 네이버 API를 이용한 간편 회원가입
-- - 구글 API를 이용한 간편 회원가입
-
-▶ 로그인
-- 아이디, 비밀번호 DB 비교 로그인 기능 구현
-- 카카오 API를 이용한 간편 로그인
-- 네이버 API를 이용한 간편 로그인
-- 구글 API를 이용한 간편 로그인
-- 로그아웃 기능 구현
-
-▶ 아이디 찾기
-- 사용자가 입력한 이메일과 DB 비교
-- 정보 일치 여부 전달
+- 구글 API를 이용한 간편 회원가입
 
 
-▶ 비밀번호 찾기
-- 사용자가 입력한 이메일과 DB 비교
-- 정보 일치할 경우 MAIL API 이용하여 비밀번호 변경 링크 발송
-- 비밀번호 변경 구현
 
+▶ 업체
+- 업체 여러장 사진 등록 기능
+- 업체 여러장 사진 수정 기능
+- 업체 목록 기능
+- 업체 개별 / 동시 삭제 기능
+
+
+
+▶ SHOP(지역 화페)
+- 지역 화페 구매 기능 구현
 
   
  
