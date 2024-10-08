@@ -95,7 +95,14 @@
 <br><br>
 
 <h2>6. 담당 개발 파트 시연 영상</h2>
-[![Video Label](https://github.com/dodunge/travel-maker/blob/master/images/TravelMaker%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81Thumbnail.jpeg)](https://www.youtube.com/watch?v=aSLCFudOrbA)
+
+<div align="center">
+  
+[![Watch the video](https://github.com/dodunge/travel-maker/blob/master/images/TravelMaker%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81Thumbnail.jpeg)](https://www.youtube.com/watch?v=aSLCFudOrbA)
+
+[TravelMaker 개발 부분 시연영상](https://www.youtube.com/watch?v=aSLCFudOrbA)
+
+</div>
 
 
 
